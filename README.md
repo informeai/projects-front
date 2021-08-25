@@ -1,3 +1,3 @@
 # :tada:All Projects Front  
-[Manepass](./manepassnative) - Manager password created with react native lib.  
+[Manepass](./manepass) - Manager password created with react native lib.  
 
